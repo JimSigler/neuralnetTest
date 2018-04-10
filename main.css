@@ -1,0 +1,9 @@
+table {
+  background-color: #000000;
+  color: #ffffff;
+}
+td {
+  height: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
